@@ -1,4 +1,4 @@
-# 哇袄！
+# The README
 菜单栏Tools->SOCreator唤出编辑器窗口
 
 博客：www.nosloofah.top
